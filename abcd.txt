@@ -1,0 +1,5 @@
+Branching--->To keep from Production
+Switch Branches---> git switch "branch name"/ git checkout 
+
+merging--->
+commands--->git pull origin branch-name --no-rebase
